@@ -27,6 +27,13 @@ footer a:hover {
 
 
 .post a:hover {
-  background-size: 100% 100%; 
-  
+  background-size: 100% 100%;  
+}
+
+h1#home-title{
+  margin-bottom: 5px;
+}
+
+p#home-subtitle{
+  margin-top: 5px;
 }
