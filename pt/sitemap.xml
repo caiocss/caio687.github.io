@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://caiocss.com/pt/</loc>
+    <loc>https://caiosantos.dev/pt/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiocss.com/"
+                href="https://caiosantos.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://caiocss.com/pt/"
+                href="https://caiosantos.dev/pt/"
                 />
   </url>
   
   <url>
-    <loc>https://caiocss.com/pt/categories/</loc>
+    <loc>https://caiosantos.dev/pt/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiocss.com/categories/"
+                href="https://caiosantos.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://caiocss.com/pt/categories/"
+                href="https://caiosantos.dev/pt/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://caiocss.com/pt/tags/</loc>
+    <loc>https://caiosantos.dev/pt/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiocss.com/tags/"
+                href="https://caiosantos.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://caiocss.com/pt/tags/"
+                href="https://caiosantos.dev/pt/tags/"
                 />
   </url>
   
