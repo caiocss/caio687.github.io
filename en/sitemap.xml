@@ -3,64 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://caiosantos.dev/posts/2019/03/my-first-post/</loc>
-    <lastmod>2019-03-04T11:14:15-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://caiosantos.dev/about/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://caiosantos.dev/</loc>
-    <lastmod>2019-03-04T11:14:15-03:00</lastmod>
+    <loc>https://caiosantos.dev/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://caiosantos.dev/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://caiosantos.dev/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiosantos.dev/en/"
+                />
   </url>
   
   <url>
-    <loc>https://caiosantos.dev/categories/</loc>
+    <loc>https://caiosantos.dev/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://caiosantos.dev/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://caiosantos.dev/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiosantos.dev/en/categories/"
+                />
   </url>
   
   <url>
-    <loc>https://caiosantos.dev/posts/</loc>
-    <lastmod>2019-03-04T11:14:15-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://caiosantos.dev/tags/</loc>
+    <loc>https://caiosantos.dev/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://caiosantos.dev/pt/tags/"
+                href="https://caiosantos.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiosantos.dev/tags/"
+                href="https://caiosantos.dev/en/tags/"
                 />
   </url>
   
