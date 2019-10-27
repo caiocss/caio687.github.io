@@ -13,14 +13,14 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://caiosantos.dev/posts/2019/03/my-first-post/</link>
+      <title>Hello World!</title>
+      <link>https://caiosantos.dev/posts/2019/03/hello-world/</link>
       <pubDate>Mon, 04 Mar 2019 11:14:15 -0300</pubDate>
       
-      <guid>https://caiosantos.dev/posts/2019/03/my-first-post/</guid>
-      <description>Hello World! Aqui se inicia meu blog, onde pretendo em breve compartilhar o meu dia-a-dia, estudos e projetos na área da programação..
-See ya!
-Caio Santos - Blog</description>
+      <guid>https://caiosantos.dev/posts/2019/03/hello-world/</guid>
+      <description>My First Post! Aqui se inicia meu blog! (Mais um blog.. )
+Pretendo com o mesmo compartilhar o que tenho estudado na área da programação compartilhando também meu dia a dia como profissional da area de TI.
+O foco principal é utilizar o blog como um grande bloco de notas, onde posso registratar os meus estudos, projetos e tutoriais e assim poder consultar, relembrar e rever os estudos, e de tabela compatilhar conhecimento e ajudar a outros deixando tudo publico!</description>
     </item>
     
     <item>
@@ -30,9 +30,9 @@ Caio Santos - Blog</description>
       
       <guid>https://caiosantos.dev/about/</guid>
       <description>Olá!
-Sou Caio Santos, Desenvolvedor de Software em São Paulo-SP e tenho 28 anos!
+Sou Caio Santos, Desenvolvedor de Software em São Paulo-SP!
 Formado em Redes de Computadores, iniciei na área de TI onde trabalhei por 6 anos na parte de Segurança da Informação (controle de acessos, administração e revisão de políticas e procedimentos nos acessos aos recursos de TI) e com Infraestrutura (Active Directory, Windows Server).
-Desde que comecei na área, sempre tive vontade de trabalhar com web e desenvolvimento de software, então estudei e atualmente desenvolvo software trabalhando com .</description>
+Desde que comecei na área, sempre tive vontade de trabalhar com web e desenvolvimento de software, então fui estudando e fazendo alguns projetos por fora até que no final de 2018 consegui a grande oportunidade de trabalhar como programador!</description>
     </item>
     
   </channel>
